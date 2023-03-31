@@ -1,2 +1,2 @@
 # COVID---Data-Analytics
-Objective: Created a data platform, used covid-19 data. Stored the raw data and prepared data. Used ADGL2 for raw data storage, Databricks used for data transformation
+Objective:Created a data platform where we can store data and perform visualization/analytics over it. Used covid-19 data. Stored the raw data and prepared data in appropriate format so that analytics and visualization can happen on top of that. Designed the solution. Used ADGL2 for raw data storage, Databricks used for data transformation. ADF can be used for orchestration, transformation and schedule. Data was accessible using JDBC/ODBC. then I generated report like - death cases by region, new cases by country, any other complex report of your choice.
